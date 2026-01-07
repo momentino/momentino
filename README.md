@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Research Assistant at University of Trento, supervised by Professor Raffaella Bernardi (University of Bolzano).
+I am a Research Assistant at University of Trento, supervised by Professor Raffaella Bernardi (University of Bolzano).  
 I am currently exploring ways to improve LLMs' of using language to act (rather than just understanding its formal rules).
 
 I've found in games, thanks to their goal-oriented and multi-turn nature, valuable proxies for many real-world tasks.
